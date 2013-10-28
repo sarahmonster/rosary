@@ -84,7 +84,7 @@
 
 						<div id="access" role="navigation"><?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?></div>
 						
-						<a href="/books"><img class="buy-book" src="<?php bloginfo( 'template_directory' ); ?>/images/mysterious-albion.png" alt="Mysterious Albion: Buy the book!"></a>
+						<a href="/books"><img class="buy-book" src="<?php bloginfo( 'template_directory' ); ?>/images/books.png" alt="Mysterious Albion and the Book of Thoth. Buy the books!"></a>
 						
 						<?php //get_sidebar(); ?>
 					</div>
