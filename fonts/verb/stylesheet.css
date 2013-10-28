@@ -1,0 +1,144 @@
+/* @license
+ * MyFonts Webfont Build ID 2499741, 2013-03-08T19:42:05-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Verbio SemiBold Italic by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/semibold-italic/
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Verb Bold Italic by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/bold-italic/
+ * Licensed pageviews: 0
+ * 
+ * Webfont: Verb Bold by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/bold/
+ * Licensed pageviews: 0
+ * 
+ * Webfont: Verb Light Italic by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/light-italic/
+ * Licensed pageviews: 0
+ * 
+ * Webfont: Verb Light by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/light/
+ * Licensed pageviews: 0
+ * 
+ * Webfont: Verb Medium by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/medium/
+ * Licensed pageviews: 0
+ * 
+ * Webfont: Verb Italic by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/italic/
+ * Licensed pageviews: 0
+ * 
+ * Webfont: Verb Regular by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/regular/
+ * Licensed pageviews: 0
+ * 
+ * Webfont: Verb SemiBold by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/Verb/semibold/
+ * Licensed pageviews: 0
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2499741
+ * Webfonts copyright: Copyright (c) 2012 by Yellow Desing Studio. All rights reserved.
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+  
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_4_0.eot');
+	src: url('webfonts/26249D_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_4_0.woff') format('woff'),url('webfonts/26249D_4_0.ttf') format('truetype'),url('webfonts/26249D_4_0.svg#wf') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_3_0.eot');
+	src: url('webfonts/26249D_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_3_0.woff') format('woff'),url('webfonts/26249D_3_0.ttf') format('truetype'),url('webfonts/26249D_3_0.svg#wf') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+  
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_7_0.eot');
+	src: url('webfonts/26249D_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_7_0.woff') format('woff'),url('webfonts/26249D_7_0.ttf') format('truetype'),url('webfonts/26249D_7_0.svg#wf') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_6_0.eot');
+	src: url('webfonts/26249D_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_6_0.woff') format('woff'),url('webfonts/26249D_6_0.ttf') format('truetype'),url('webfonts/26249D_6_0.svg#wf') format('svg');
+    font-weight: 200;
+    font-style: italic;
+} 
+
+
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_5_0.eot');
+	src: url('webfonts/26249D_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_5_0.woff') format('woff'),url('webfonts/26249D_5_0.ttf') format('truetype'),url('webfonts/26249D_5_0.svg#wf') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/262B5D_0_0.eot');
+	src: url('webfonts/262B5D_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/262B5D_0_0.woff') format('woff'),url('webfonts/262B5D_0_0.ttf') format('truetype'),url('webfonts/262B5D_0_0.svg#wf') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+  
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_8_0.eot');
+	src: url('webfonts/26249D_8_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_8_0.woff') format('woff'),url('webfonts/26249D_8_0.ttf') format('truetype'),url('webfonts/26249D_8_0.svg#wf') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+   
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_0_0.eot');
+	src: url('webfonts/26249D_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_0_0.woff') format('woff'),url('webfonts/26249D_0_0.ttf') format('truetype'),url('webfonts/26249D_0_0.svg#wf') format('svg');
+	font-weight: 400;
+    font-style: italic;
+}
+ 
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_2_0.eot');
+	src: url('webfonts/26249D_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_2_0.woff') format('woff'),url('webfonts/26249D_2_0.ttf') format('truetype'),url('webfonts/26249D_2_0.svg#wf') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}  
+
+@font-face {
+	font-family: 'Verb';
+	src: url('webfonts/26249D_1_0.eot');
+	src: url('webfonts/26249D_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26249D_1_0.woff') format('woff'),url('webfonts/26249D_1_0.ttf') format('truetype'),url('webfonts/26249D_1_0.svg#wf') format('svg');
+	font-weight: 500;
+    font-style: italic;
+}
+ 
+  
+
+
+ 
+  
+
+
+ 
