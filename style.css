@@ -61,7 +61,7 @@ body {
 @media all and (max-width: 940px) and (min-width: 767px) {
 	.container {
 		background: 
-			url("images/sidebar.png") 30% 0 no-repeat fixed,
+			url("images/sidebar.png") 25% 0 no-repeat fixed,
 			url("images/lamppost.png") 210% 0 no-repeat fixed,
 			url("images/bg-plain.jpg") top center fixed repeat-y;
 	}
@@ -397,9 +397,10 @@ em, i {
 /* on tablets, just rework the title a touch */
 @media all and (max-width: 980px) and (min-width: 640px) {
 	#site-title {
-		font-size: 4.5em;
+		font-size: 4.25em;
 		padding-top: 75px;
 		padding-bottom: 100px;
+		margin-left: -18px;
 	}
 }
 
