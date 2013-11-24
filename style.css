@@ -538,7 +538,7 @@ article:after {
 }
 @media all and (max-width: 767px) {
 	.date {
-	    font-size: .7em;
+	    font-size: .65em;
 	    margin-bottom: 10px;
 	}
 }
