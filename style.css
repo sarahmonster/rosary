@@ -267,7 +267,7 @@ em, i {
 #access a {
 	color: #f5f8f8;
 	display: block;
-	padding: 10px 50px 10px 50px;
+	padding: 10px 0px 10px 50px;
 }
 
 
@@ -285,12 +285,15 @@ em, i {
 	background-position: 0 -300px;
 }
 #access li:nth-child(5) {
-	background-position: 0 -400px;
+	background-position: 0 -900px;
 }
 #access li:nth-child(6) {
-	background-position: 0 -500px;
+	background-position: 0 -400px;
 }
 #access li:nth-child(7) {
+	background-position: 0 -500px;
+}
+#access li:nth-child(8) {
 	background-position: 0 -600px;
 }
 
@@ -310,12 +313,15 @@ em, i {
 		background-position: 0 -350px;
 	}
 	#access li:nth-child(5):hover {
-		background-position: 0 -450px;
+		background-position: 0 -950px;
 	}
 	#access li:nth-child(6):hover {
-		background-position: 0 -550px;
+		background-position: 0 -450px;
 	}
 	#access li:nth-child(7):hover {
+		background-position: 0 -550px;
+	}
+	#access li:nth-child(8):hover {
 		background-position: 0 -650px;
 	}
 
