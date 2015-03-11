@@ -41,7 +41,7 @@ body {
 /* rework that background a touch on larger, and on smaller, screens */
 @media all and (min-width: 1300px) {
 	.container {
-		background: 
+		background:
 			url("images/sidebar.png") 50% 0 no-repeat fixed,
 			url("images/lamppost.png") 120% 0 no-repeat fixed,
 			url("images/bg-plain.jpg") top center fixed repeat-y;
@@ -50,7 +50,7 @@ body {
 
 @media all and (max-width: 1150px) and (min-width: 940px) {
 	.container {
-		background: 
+		background:
 			url("images/sidebar.png") 30% 0 no-repeat fixed,
 			url("images/lamppost.png") 150% 0 no-repeat fixed,
 			url("images/bg-plain.jpg") top center fixed repeat-y;
@@ -60,7 +60,7 @@ body {
 
 @media all and (max-width: 940px) and (min-width: 767px) {
 	.container {
-		background: 
+		background:
 			url("images/sidebar.png") 25% 0 no-repeat fixed,
 			url("images/lamppost.png") 210% 0 no-repeat fixed,
 			url("images/bg-plain.jpg") top center fixed repeat-y;
@@ -75,14 +75,14 @@ body {
 }
 
 
-/* GENERAL TYPOGRAPHY */	
+/* GENERAL TYPOGRAPHY */
 h1, h2, h3, h4, h5 {
 	font-weight: 100;
 	font-size: 2.6em;
 	color: #254b5b;
 	line-height: 1.2em;
 	text-shadow: 0 1px 1px rgba(102,102,102,.19);
-} 
+}
 h1 {
 	margin: 0 0 50px;
 }
@@ -128,12 +128,12 @@ h3 {
 p {
 	text-align: justify;
 	margin: 1em 0 2em;
-} 
+}
 .small-caps {
 	font-variant: small-caps;
 	font-size: 1em;
 	letter-spacing: 1px;
-} 
+}
 em {
 	font-style: italic;
 }
@@ -141,7 +141,7 @@ a:link,a:active,a:visited {
 	color: #863931;
 	text-decoration: none;
 	transition: all .3s ease-out 0s;
-} 
+}
 a:hover, a:focus {
 	color: #254b5b;
 	text-decoration: none;
@@ -159,7 +159,7 @@ sub {
 .amp {
 	font-weight: normal;
 	font-style: normal;
-} 
+}
 .caps {
 	font-size: 90%;
 }
@@ -189,27 +189,27 @@ blockquote::after {
 	display: block;
 }
 
-::selection { 
-	background: #c1cccc; 
-	color: #2a3438; 
+::selection {
+	background: #c1cccc;
+	color: #2a3438;
 }
-::-moz-selection { 
-	background:#c1cccc; 
-	color: #2a3438; 
+::-moz-selection {
+	background:#c1cccc;
+	color: #2a3438;
 }
 
 ul {
 	text-align: left;
 	margin-left: 80px;
-} 
+}
 li {
 	list-style-type: circle;
-} 
+}
 ol {
 	text-align: left;
 	list-style-type: decimal;
 	list-style-position: inside;
-} 
+}
 ol li {
 	margin: 15px 0;
 }
@@ -257,7 +257,7 @@ em, i {
 	font-size: 1.2em;
 }
 #access li {
-	margin: 10px 0;	
+	margin: 10px 0;
 	width: 102%;
 	list-style-type: none;
 	border: 1px solid transparent;
@@ -302,7 +302,7 @@ em, i {
 	}
 	#access li:nth-child(2):hover {
 		background-position: 0 -150px;
-	}	
+	}
 	#access li:nth-child(3):hover {
 		background-position: 0 -250px;
 	}
@@ -314,11 +314,11 @@ em, i {
 	}
 	#access li:nth-child(6):hover {
 		background-position: 0 -550px;
-	}	
+	}
 	#access li:nth-child(7):hover {
 		background-position: 0 -650px;
-	}	
-	
+	}
+
 	#access li:hover {
 		border: 1px solid #254b5b;
 		background-color: rgba(193,204,204,.9);
@@ -381,7 +381,7 @@ em, i {
 	}
 	#access li {
 		width: 110%;
-		
+
 	}
 	#access li.current-menu-item {
 		border-left: 0;
@@ -425,7 +425,7 @@ em, i {
 	}
 	.mobile-menu-button {
 		display: block;
-		height: 50px; 
+		height: 50px;
 		width: 50px;
 		overflow: hidden;
 		text-indent: 100%;
@@ -461,7 +461,7 @@ em, i {
 		background-size: cover;
 		position: absolute;
 		top: 52px;
-		border: none; 
+		border: none;
 		border-bottom: 1px solid #254b5b;
 		padding: 0;
 		/*
@@ -476,8 +476,8 @@ em, i {
     }
     #access li.current-menu-item {
 		border-left: 0;
-	}	
-    
+	}
+
 }
 
 
@@ -545,7 +545,7 @@ article:after {
 
 .page .date {
 	margin-bottom: 10px;
-} 
+}
 .navigation a {
 	width: 90%;
 	display: block;
@@ -643,7 +643,7 @@ blockquote.biblical ol li::before {
 
 /* books page */
 .page-id-7 p {
-	
+
 }
 
 .book-cover {
@@ -766,7 +766,7 @@ a.buy-link:hover, a.about-link:hover, .navigation a:hover {
 form p {
 	clear: both;
 	margin: 20px 0;
-} 
+}
 form p::after {
 	clear: both;
 	content: "";
@@ -833,16 +833,16 @@ input[type=search] {
 input[type="search"]::-webkit-search-decoration {
     -webkit-appearance: none;
 }
-input::-webkit-input-placeholder { 
+input::-webkit-input-placeholder {
 	color: #5C5656;
 }
-input:-moz-placeholder  { 
+input:-moz-placeholder  {
 	color: #5C5656;
 }
-input::-moz-placeholder { 
+input::-moz-placeholder {
 	color: #5C5656;
 }
-input::-ms-input-placeholder { 
+input::-ms-input-placeholder {
 	color: #5C5656;
 }
 input[type="search"]::-webkit-search-cancel-button {
